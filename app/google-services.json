@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537408372163",
+    "project_id": "studentexamapp-21878",
+    "storage_bucket": "studentexamapp-21878.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537408372163:android:ba7494bf9bee59e6345176",
+        "android_client_info": {
+          "package_name": "com.example.studentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWFue1qzPq-5b0Gu76__nNRcIfri3Ro-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
